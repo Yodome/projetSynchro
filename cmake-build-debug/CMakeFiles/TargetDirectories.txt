@@ -1,0 +1,3 @@
+/home/UHA/e1701567/U/M1/S2/Synchro/Projet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/UHA/e1701567/U/M1/S2/Synchro/Projet/cmake-build-debug/CMakeFiles/Projet.dir
+/home/UHA/e1701567/U/M1/S2/Synchro/Projet/cmake-build-debug/CMakeFiles/edit_cache.dir
