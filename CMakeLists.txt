@@ -3,4 +3,4 @@ project(Projet)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Projet main.cpp Voiture.cpp Voiture.h)
+add_executable(Projet main.cpp sources/Voiture.cpp headers/Voiture.h)
